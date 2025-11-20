@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Work
-I'm a lifeguard
-I code
-I like echo
-Recreating EchoTaxi in a horrible way
+# Work\n
+I'm a lifeguard\n
+I code\n
+I like echo\n
+Recreating EchoTaxi in a horrible way\n
