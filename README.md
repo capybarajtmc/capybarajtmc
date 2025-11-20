@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **capybarajtmc/capybarajtmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Work\n
-I'm a lifeguard\n
-I code\n
-I like echo\n
-Recreating EchoTaxi in a horrible way\n
+# Work
+I'm a lifeguard
+
+I code
+
+I like echo
+
+Recreating EchoTaxi in a horrible way
