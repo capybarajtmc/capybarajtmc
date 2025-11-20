@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Work
+I'm a lifeguard
+I code
+I like echo
+Recreating EchoTaxi in a horrible way
